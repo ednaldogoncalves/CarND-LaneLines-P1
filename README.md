@@ -43,7 +43,7 @@ A browser window will appear showing the contents of the current directory.  Cli
 I will use the following picture to show you all the steps:<br>
 
 <p align="center">
-<img src="./docs/00_OriginalImage_solidWhiteRight.jpg">
+<img src="./docs/00_OriginalImage_solidWhiteRight.png">
 </p>
 
 ### Color selection
@@ -183,20 +183,20 @@ Here some results on test videos provided by Udacity:
 You can find the video files on this folder: ‘test_videos_output”
 
 <p align="center">
-Solid white line
-<img src="./Videos/gifs/result_challenge.gif"><br>
+Solid white line<br>
+<img src="./test_videos_output/gifs/result_challenge.gif"><br>
 <a href="./test_videos_output/result_challenge.mp4">Download video</a>
 </p>
 
 <p align="center">
-Solid yellow line
-<img src="./Videos/gifs/result_solidWhiteRight.gif"><br>
+Solid yellow line<br>
+<img src="./test_videos_output/gifs/result_solidWhiteRight.gif"><br>
 <a href="./test_videos_output/result_solidWhiteRight.mp4">Download video</a>
 </p>
 
 <p align="center">
-Solid yellow line
-<img src="./Videos/gifs/result_solidYellowLeft.gif"><br>
+Solid yellow line<br>
+<img src="./test_videos_output/gifs/result_solidYellowLeft.gif"><br>
 <a href="./test_videos_output/result_solidYellowLeft.mp4">Download video</a>
 </p>
 
@@ -221,6 +221,3 @@ I have observed some problems with the current pipeline:
 - Using a better filter to smooth the current estimation, using the previous ones;
 - If a line is not detected, we could estimate the current slope using the previous estimations and/or the other line detection;
 - Use a moving-edges tracker for the continuous lines.
-
-
-
