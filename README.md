@@ -1,4 +1,4 @@
-# CarND - Finding Lane Lines
+# CarND - Finding Lane Lines - Project 1
 Udacity Self-Driving Car Engineer Nanodegree Program <br>
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 <br>
