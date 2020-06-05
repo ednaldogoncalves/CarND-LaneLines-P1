@@ -1,14 +1,14 @@
-# CarND-LaneLines-P1
+# CarND - Finding Lane Lines
 Udacity Self-Driving Car Engineer Nanodegree Program <br>
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-
-# Overview
-
-The goal of the Project #1 is to make a pipeline that finds lane lines on the road using Python and OpenCV. See an example:
-
+<br>
 <p align="center">
 <img src="./test_images_output/result_solidWhiteRight.jpg">
 </p>
+
+# Overview
+
+The goal of the Project #1 is to make a pipeline that finds lane lines on the road using Python and OpenCV.
 
 While the pipeline is created for a single image, it can be applied to video footage by breaking the video down into frames, passing the frames through the pipeline, and then reconstructing the video.
 
